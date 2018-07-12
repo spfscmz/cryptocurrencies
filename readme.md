@@ -28,9 +28,9 @@ cryptocurrencies.symbols();
 <!-- Use `npm run build` to auto-generate the table. -->  
 
 <!-- BEGIN TABLE INJECT -->
-There are currently **2673 cryptocurrencies** represented*:
+There are currently **2767 cryptocurrencies** represented*:
 
-<small><em>* Last updated: Thu, 28 Jun 2018 05:52:32 GMT</em></small>
+<small><em>* Last updated: Thu, 12 Jul 2018 06:14:45 GMT</em></small>
 
 | Symbol | Name |
 | :------ | :------ |
@@ -46,7 +46,9 @@ There are currently **2673 cryptocurrencies** represented*:
 | `ARC*` |  Arcade City |
 | `CLUB` |  ClubCoin |
 | `007` | 007 coin |
+| `ZCN` | 0chain |
 | `ZRX` | 0x |
+| `0xBTC` | 0xBitcoin |
 | `BIT16` | 16BitCoin |
 | `MCT` | 1717 Masonic Commemorative Token |
 | `1CR` | 1Credit |
@@ -77,6 +79,7 @@ There are currently **2673 cryptocurrencies** represented*:
 | `AMIS` | AMIS |
 | `ANTS` | ANTS Reloaded |
 | `APIS` | APIS |
+| `ARE` | ARENON |
 | `ARK` | ARK |
 | `ARNA` | ARNA Panacea |
 | `ATB` | ATB coin |
@@ -84,9 +87,11 @@ There are currently **2673 cryptocurrencies** represented*:
 | `ATFS` | ATFS Project |
 | `ATL` | ATLANT |
 | `ATM` | ATMChain |
+| `AUC*` | AU-Coin |
 | `AXR` | AXRON |
 | `AXS` | AXS |
 | `ABJ` | Abjcoin |
+| `ABS` | Absolute Coin |
 | `ACC*` | Accelerator Network |
 | `ACCO` | Accolade |
 | `AEC` | AcesCoin |
@@ -129,6 +134,7 @@ There are currently **2673 cryptocurrencies** represented*:
 | `AKA` | Akroma |
 | `ALEX` | Alexandrite |
 | `PLM` | Algo.Land |
+| `ALG` | Algory |
 | `ALN` | AlienCoin |
 | `SOC` | All Sports Coin |
 | `ASAFE2` | Allsafe |
@@ -142,6 +148,7 @@ There are currently **2673 cryptocurrencies** represented*:
 | `AMBER` | AmberCoin |
 | `AMB` | Ambrosus |
 | `AMC` | AmericanCoin |
+| `AMX` | Amero |
 | `AMMO` | Ammo Rewards |
 | `AMO` | Amo Coin |
 | `AMN` | Amon |
@@ -179,6 +186,7 @@ There are currently **2673 cryptocurrencies** represented*:
 | `ARG` | Argentum |
 | `ARGUS` | ArgusCoin |
 | `ARI` | AriCoin |
+| `ARO` | Arionum |
 | `BOTS` | ArkDAO |
 | `ARM` | Armory Coin |
 | `ARPA` | ArpaCoin |
@@ -192,6 +200,7 @@ There are currently **2673 cryptocurrencies** represented*:
 | `ADCN` | Asiadigicoin |
 | `AST*` | Astral |
 | `ASTRO` | Astronaut |
+| `ATH` | Atheios |
 | `ATMOS` | Atmos |
 | `ATOM` | Atomic Coin |
 | `AUC` | Auctus |
@@ -250,7 +259,6 @@ There are currently **2673 cryptocurrencies** represented*:
 | `BRDD` | BeardDollars |
 | `XBTS` | Beats |
 | `BVC` | BeaverCoin |
-| `ARI*` | BeckSang |
 | `BEE` | Bee Token |
 | `BFDT` | Befund |
 | `BELA` | BelaCoin |
@@ -260,6 +268,7 @@ There are currently **2673 cryptocurrencies** represented*:
 | `BEN*` | Benjamins |
 | `BENJI` | BenjiRolls |
 | `BEST` | BestChain |
+| `KNG` | BetKings |
 | `BET` | BetaCoin |
 | `BTRM` | Betrium Token |
 | `BETR` | BetterBetting |
@@ -268,6 +277,7 @@ There are currently **2673 cryptocurrencies** represented*:
 | `BEZ` | Bezop |
 | `BBP` | BiblePay |
 | `BIX` | BiboxCoin |
+| `BID` | BidCoin |
 | `BDP` | Bidipass |
 | `HUGE` | BigCoin |
 | `LFC` | BigLifeCoin |
@@ -348,6 +358,7 @@ There are currently **2673 cryptocurrencies** represented*:
 | `BTCH` | Bitcoin Hush |
 | `XBI` | Bitcoin Incognito |
 | `BCI` | Bitcoin Interest |
+| `BTN` | Bitcoin Nova |
 | `BTPL` | Bitcoin Planet |
 | `BTCP` | Bitcoin Private |
 | `BTCRED` | Bitcoin Red |
@@ -355,6 +366,7 @@ There are currently **2673 cryptocurrencies** represented*:
 | `BCR*` | Bitcoin Royal |
 | `BTCS` | Bitcoin Scrypt |
 | `BT2` | Bitcoin SegWit2X |
+| `BTCS*` | Bitcoin Supreme |
 | `BTCD` | BitcoinDark |
 | `BTCE*` | BitcoinEX |
 | `BCF` | BitcoinFast |
@@ -363,6 +375,7 @@ There are currently **2673 cryptocurrencies** represented*:
 | `BTCGO` | BitcoinGo |
 | `XBC` | BitcoinPlus |
 | `BTX*` | BitcoinTX |
+| `BWS` | BitcoinWSpectrum |
 | `BTW` | BitcoinWhite |
 | `BCX*` | BitcoinX |
 | `BTCZ` | BitcoinZ |
@@ -372,6 +385,7 @@ There are currently **2673 cryptocurrencies** represented*:
 | `BDL` | Bitdeal |
 | `BT1` | Bitfinex Bitcoin Future |
 | `BTCL*` | BitluckCoin |
+| `BIM` | BitminerCoin |
 | `BMXT` | Bitmxittz |
 | `BQ` | Bitqy |
 | `BRO` | Bitradio |
@@ -451,6 +465,7 @@ There are currently **2673 cryptocurrencies** represented*:
 | `BRC` | BrightCoin |
 | `BRIT` | BritCoin |
 | `BUBO` | Budbo |
+| `BGL` | Buglab |
 | `BT` | BuildTeam |
 | `BULLS` | BullshitCoin |
 | `BWK` | Bulwark |
@@ -542,7 +557,7 @@ There are currently **2673 cryptocurrencies** represented*:
 | `CIR` | CircuitCoin |
 | `COVAL` | Circuits of Value |
 | `CVC` | Civic |
-| `CLR*` | ClearCoin |
+| `XCLR` | ClearCoin |
 | `POLL` | ClearPoll |
 | `CLV` | CleverCoin |
 | `CHASH` | CleverHash |
@@ -565,6 +580,7 @@ There are currently **2673 cryptocurrencies** represented*:
 | `XMG` | Coin Magi |
 | `BTTF` | Coin to the Future |
 | `C2` | Coin.2 |
+| `CET` | CoinEx token |
 | `COFI` | CoinFi |
 | `XCJ` | CoinJob |
 | `CL` | CoinLancer |
@@ -575,6 +591,7 @@ There are currently **2673 cryptocurrencies** represented*:
 | `CHP` | CoinPoker Token |
 | `LAB*` | CoinWorksCoin |
 | `CTIC` | Coinmatic |
+| `COI` | Coinnec |
 | `CNO` | Coino |
 | `CNMT` | Coinomat |
 | `CXT` | Coinonat |
@@ -610,6 +627,7 @@ There are currently **2673 cryptocurrencies** represented*:
 | `CMOS` | Cosmo |
 | `ATOM*` | Cosmos |
 | `CMC` | CosmosCoin |
+| `COU` | Couchain |
 | `XCP` | CounterParty |
 | `CHT` | Countinghouse Fund |
 | `COV*` | CovenCoin |
@@ -698,6 +716,7 @@ There are currently **2673 cryptocurrencies** represented*:
 | `CYG` | Cygnus |
 | `CYP` | CypherPunkCoin |
 | `FUNK` | Cypherfunks Coin |
+| `DAC` | DACash |
 | `DADI` | DADI |
 | `BET*` | DAO.casino |
 | `GEN` | DAOstack |
@@ -731,6 +750,7 @@ There are currently **2673 cryptocurrencies** represented*:
 | `DT` | DarkToken |
 | `DRKT` | DarkTron |
 | `DNET` | Darknet |
+| `DASC` | DasCoin |
 | `DASH` | Dash |
 | `DSH` | Dashcoin |
 | `DTA` | Data |
@@ -760,6 +780,7 @@ There are currently **2673 cryptocurrencies** represented*:
 | `DBC` | DeepBrain Chain |
 | `ONION` | DeepOnion |
 | `DEA` | Degas Coin |
+| `DEI` | Deimos |
 | `DKD` | Dekado |
 | `DPAY` | DelightPay |
 | `DCRE` | DeltaCredits |
@@ -795,6 +816,7 @@ There are currently **2673 cryptocurrencies** represented*:
 | `DP` | DigitalPrice |
 | `WAGE` | Digiwage |
 | `DGD` | Digix DAO |
+| `DGX` | Digix Gold token |
 | `DIG` | Dignity |
 | `DIME` | DimeCoin |
 | `DCY` | Dinastycoin |
@@ -820,6 +842,7 @@ There are currently **2673 cryptocurrencies** represented*:
 | `DOR` | Dorado |
 | `DOT` | Dotcoin |
 | `BOAT` | Doubloon |
+| `Dow` | DowCoin |
 | `DRA` | DraculaCoin |
 | `DFT` | Draftcoin |
 | `DRG` | Dragon Coin |
@@ -839,6 +862,7 @@ There are currently **2673 cryptocurrencies** represented*:
 | `DUX` | DuxCoin |
 | `DYN` | Dynamic |
 | `DTR` | Dynamic Trading Rights |
+| `DTEM` | Dystem |
 | `DBR` | Düber |
 | `ECC*` | E-CurrencyCoin |
 | `EDR` | E-Dinar Coin |
@@ -853,12 +877,14 @@ There are currently **2673 cryptocurrencies** represented*:
 | `ELTCOIN` | ELTCOIN |
 | `ENTRC` | ENTER COIN |
 | `EOS` | EOS |
+| `EPIK` | EPIK Token |
 | `EQL` | EQUAL |
 | `EQ` | EQUI |
 | `EQUI` | EQUI Token |
 | `ERB` | ERBCoin |
 | `ETS` | ETH Share |
 | `EGAS` | ETHGAS |
+| `EUNO` | EUNO |
 | `EXRN` | EXRNchain |
 | `EZC` | EZCoin |
 | `EZM` | EZMarket |
@@ -881,6 +907,7 @@ There are currently **2673 cryptocurrencies** represented*:
 | `EDU` | Educoin |
 | `EDC` | EducoinV |
 | `EGG` | EggCoin |
+| `EGT` | Egretia |
 | `EDO` | Eidoo |
 | `EMC2` | Einsteinium |
 | `ELC` | Elacoin |
@@ -894,7 +921,6 @@ There are currently **2673 cryptocurrencies** represented*:
 | `ELM` | Elements |
 | `ELI*` | Elicoin |
 | `ELI` | Eligma |
-| `8S` | Elite 888 |
 | `ELIX` | Elixir |
 | `ELLA` | Ellaism |
 | `ELP` | Ellerium |
@@ -907,11 +933,12 @@ There are currently **2673 cryptocurrencies** represented*:
 | `MBRS` | Embers |
 | `EMD` | Emerald |
 | `EMC` | Emercoin |
+| `EMN` | Eminent Token  |
 | `EMIGR` | EmiratesGoldCoin |
 | `EPY*` | Emphy |
 | `EMPC` | EmporiumCoin |
 | `EPY` | Empyrean |
-| `DNA` | Encrypgen |
+| `DNA` | EncrypGen |
 | `ETT` | EncryptoTel |
 | `EDR*` | Endor Protocol Token  |
 | `ENE` | EneCoin |
@@ -939,6 +966,7 @@ There are currently **2673 cryptocurrencies** represented*:
 | `ERT` | Esports.com |
 | `ESS` | Essentia |
 | `XEC` | Eternal Coin |
+| `XET` | Eternal Token |
 | `ENT` | Eternity |
 | `EBET` | EthBet |
 | `ETBS` | EthBits |
@@ -1024,6 +1052,8 @@ There are currently **2673 cryptocurrencies** represented*:
 | `FILL` | Fillit |
 | `FNTB` | FinTab |
 | `FIND` | FindCoin |
+| `FIN` | Finom FIN Token |
+| `NOM` | Finom NOM Token |
 | `FTX` | FintruX |
 | `FIRE` | FireCoin |
 | `FLOT` | FireLotto |
@@ -1100,6 +1130,7 @@ There are currently **2673 cryptocurrencies** represented*:
 | `GES` | Galaxy eSolutions |
 | `GLX` | GalaxyCoin |
 | `GAM` | Gambit coin |
+| `GMCN` | GambleCoin |
 | `GTC` | Game |
 | `GBT` | GameBetCoin |
 | `GML` | GameLeagueCoin |
@@ -1116,6 +1147,7 @@ There are currently **2673 cryptocurrencies** represented*:
 | `GXC*` | GenXCoin |
 | `GNX` | Genaro Network |
 | `GVT` | Genesis Vision |
+| `XGS` | GenesisX |
 | `GSY` | GenesysCoin |
 | `GEN*` | Genstake |
 | `GEO` | GeoCoin |
@@ -1124,6 +1156,7 @@ There are currently **2673 cryptocurrencies** represented*:
 | `SPKTR` | Ghost Coin |
 | `GHC` | GhostCoin |
 | `GHOUL` | Ghoul Coin |
+| `GIC` | Giant |
 | `GIFT` | GiftNet |
 | `GFT` | Giftcoin |
 | `GIG` | GigCoin |
@@ -1238,7 +1271,9 @@ There are currently **2673 cryptocurrencies** represented*:
 | `HNC` | Hellenic Coin |
 | `HGT` | Hello Gold |
 | `HMP` | HempCoin |
+| `HERO` | Hero |
 | `HER` | Hero Node |
+| `HEX` | HexCoin |
 | `HXT` | HextraCoin |
 | `HXX` | HexxCoin |
 | `HMC` | Hi Mutual Society |
@@ -1321,6 +1356,7 @@ There are currently **2673 cryptocurrencies** represented*:
 | `INFX` | Influxcoin |
 | `INK` | Ink |
 | `XNK` | Ink Protocol |
+| `ILK` | Inlock |
 | `$OUND` | Inmusik |
 | `INN` | Innova |
 | `INSN` | Insane Coin |
@@ -1329,6 +1365,7 @@ There are currently **2673 cryptocurrencies** represented*:
 | `INSTAR` | Insights Network |
 | `ICC` | Insta Cash Coin |
 | `MINE` | Instamine Nuggets |
+| `INSUR` | InsurChain Coin |
 | `IPL` | InsurePal |
 | `IQB` | Intelligence Quotient Benefit |
 | `ITT` | Intelligent Trading |
@@ -1349,12 +1386,15 @@ There are currently **2673 cryptocurrencies** represented*:
 | `ION` | Ionomy |
 | `IRL` | IrishCoin |
 | `ISL` | IslaCoin |
+| `ITA` | Italocoin |
 | `ING` | Iungo |
 | `IEC` | IvugeoEvolutionCoin |
 | `IVY` | IvyKoin |
 | `IWT` | IwToken |
 | `J8T` | JET8 |
+| `JEX` | JEX Token |
 | `JIO` | JIO Token |
+| `JOY*` | JOYSO |
 | `JPC*` | JackPotCoin |
 | `JANE` | JaneCoin |
 | `JNS` | Janus |
@@ -1376,6 +1416,7 @@ There are currently **2673 cryptocurrencies** represented*:
 | `JUMP` | Jumpcoin |
 | `JKC` | JunkCoin |
 | `JDC` | JustDatingSite |
+| `KAAS` | KAASY.AI |
 | `KAT` | KATZcoin |
 | `KEC` | KEYCO |
 | `KRC` | KRCoin |
@@ -1384,6 +1425,7 @@ There are currently **2673 cryptocurrencies** represented*:
 | `KZC` | KZCash |
 | `KLKS` | Kalkulus |
 | `KAPU` | Kapu |
+| `KBC` | Karatgold coin |
 | `KRB` | Karbo |
 | `KRM` | Karma |
 | `KARMA` | Karmacoin |
@@ -1392,6 +1434,7 @@ There are currently **2673 cryptocurrencies** represented*:
 | `KEN` | Kencoin |
 | `KEP` | Kepler |
 | `KC` | Kernalcoin |
+| `KETAN` | Ketan |
 | `KEX` | KexCoin |
 | `KEY*` | KeyCoin |
 | `KICK` | KickCoin |
@@ -1469,6 +1512,7 @@ There are currently **2673 cryptocurrencies** represented*:
 | `LINX` | Linx |
 | `LQD` | Liquid |
 | `LSK` | Lisk |
+| `LTCC` | Listerclassic Coin |
 | `LBTC` | LiteBitcoin |
 | `LTG` | LiteCoin Gold |
 | `LTCU` | LiteCoin Ultra |
@@ -1501,6 +1545,7 @@ There are currently **2673 cryptocurrencies** represented*:
 | `LRC` | Loopring |
 | `LOT` | LottoCoin |
 | `LYK` | Loyakk Vega |
+| `LYL` | LoyalCoin |
 | `BASH` | LuckChain |
 | `LCK` | Luckbox |
 | `LK7` | Lucky7Coin |
@@ -1516,12 +1561,17 @@ There are currently **2673 cryptocurrencies** represented*:
 | `LYM` | Lympo |
 | `LYNX` | Lynx |
 | `LYB` | LyraBar |
+| `MRK` | MARK.SPACE |
 | `MCAP` | MCAP |
+| `MEDX` | MEDX TOKEN |
 | `MIS` | MIScoin |
 | `MMNXT` | MMNXT  |
+| `MMO` | MMOCoin |
 | `MMXVI` | MMXVI |
 | `MOS` | MOS Coin |
 | `MUN` | MUNcoin |
+| `MUSD` | MUSDcoin |
+| `YCE` | MYCE |
 | `MAC` | MachineCoin |
 | `MCRN` | MacronCoin |
 | `MRV` | Macroverse |
@@ -1533,6 +1583,8 @@ There are currently **2673 cryptocurrencies** represented*:
 | `MAG*` | Magos |
 | `MAID` | MaidSafe Coin |
 | `MMXIV` | MaieutiCoin |
+| `MFT` | Mainframe |
+| `MSC*` | MaisCoin |
 | `MIV` | MakeItViral |
 | `MKR` | Maker |
 | `MAT*` | Manet Coin |
@@ -1580,12 +1632,14 @@ There are currently **2673 cryptocurrencies** represented*:
 | `MET` | Memessenger |
 | `MMC` | MemoryCoin |
 | `MRN` | Mercoin |
+| `MVP` | Merculet |
 | `MER` | Mercury |
 | `GMT` | Mercury Protocol |
 | `MTL` | Metal |
 | `MTLM3` | Metal Music v3 |
 | `METAL` | MetalCoin |
 | `ETP` | Metaverse |
+| `MET*` | Metronome |
 | `AMM` | MicroMoney |
 | `MDX` | Midex |
 | `MDT` | Midnight |
@@ -1595,6 +1649,7 @@ There are currently **2673 cryptocurrencies** represented*:
 | `MNC` | MinCoin |
 | `MG` | Mind Gene |
 | `MND` | MindCoin |
+| `MIC` | Mindexcoin |
 | `MINT*` | Mineable Token |
 | `MIO` | Miner One token |
 | `MIN` | Minerals Coin |
@@ -1645,6 +1700,7 @@ There are currently **2673 cryptocurrencies** represented*:
 | `MZX` | Mosaic Network |
 | `MOAT` | Mother Of All Tokens |
 | `MSP` | Mothership |
+| `XMN` | Motion |
 | `MOTO` | Motocoin |
 | `MTK` | Moya Token |
 | `MRSA` | MrsaCoin |
@@ -1671,6 +1727,7 @@ There are currently **2673 cryptocurrencies** represented*:
 | `NEOG` | NEO Gold |
 | `NEXO` | NEXO |
 | `NOX` | NITRO |
+| `NIX` | NIX |
 | `NKN` | NKN |
 | `NOAH` | NOAHCOIN |
 | `CHFN` | NOKU CHF |
@@ -1733,6 +1790,7 @@ There are currently **2673 cryptocurrencies** represented*:
 | `NTC` | NineElevenTruthCoin |
 | `NDOGE` | NinjaDoge |
 | `NBR` | Niobio Cash |
+| `NBC` | Niobium |
 | `NLC` | NoLimitCoin |
 | `NLC2` | NoLimitCoin |
 | `NOBL` | NobleCoin |
@@ -1771,6 +1829,7 @@ There are currently **2673 cryptocurrencies** represented*:
 | `ODN` | Obsidian |
 | `OCL` | Oceanlab |
 | `OTX` | Octanox |
+| `OCTO*` | OctoBit Coin |
 | `OCTO` | OctoCoin |
 | `OCN` | Odyssey |
 | `ODNT` | Old Dogs New Tricks |
@@ -1805,6 +1864,7 @@ There are currently **2673 cryptocurrencies** represented*:
 | `ORGT` | Organic Token |
 | `ORI` | Origami |
 | `TRAC` | OriginTrail |
+| `OCC` | Original Crypto Coin |
 | `ORLY` | OrlyCoin |
 | `ORME` | Ormeus Coin |
 | `ORO` | OroCoin |
@@ -1813,6 +1873,7 @@ There are currently **2673 cryptocurrencies** represented*:
 | `OWD` | Owlstand |
 | `OXY` | Oxycoin |
 | `PRL` | Oyster Pearl |
+| `OYS` | Oyster Platform |
 | `SHL` | Oyster Shell |
 | `GENE` | PARKGENE |
 | `PAT` | PATRON |
@@ -1855,6 +1916,7 @@ There are currently **2673 cryptocurrencies** represented*:
 | `PYN` | Paycentos |
 | `CON_` | Paycon |
 | `PMNT` | Paymon |
+| `PYT` | Payther |
 | `PEC` | PeaceCoin |
 | `XPB` | Pebble Coin |
 | `PCL` | Peculium |
@@ -1866,6 +1928,7 @@ There are currently **2673 cryptocurrencies** represented*:
 | `PEN*` | PenCoin |
 | `PNT` | Penta |
 | `PTA` | PentaCoin |
+| `PNY` | Peony Coin |
 | `MAN` | People |
 | `MEME` | Pepe |
 | `PEPECASH` | Pepe Cash |
@@ -1900,6 +1963,7 @@ There are currently **2673 cryptocurrencies** represented*:
 | `LUC` | Play 2 Live |
 | `PKT` | Playkey |
 | `PLX` | PlexCoin |
+| `PLURA` | PluraCoin |
 | `PLC` | PlusCoin |
 | `PLUS1` | PlusOneCoin |
 | `PTC**` | Plutocoin |
@@ -1921,6 +1985,7 @@ There are currently **2673 cryptocurrencies** represented*:
 | `PPT` | Populous |
 | `PEX` | PosEx |
 | `PSD` | Poseidon |
+| `POSQ` | Poseidon Quark |
 | `TRON` | Positron |
 | `POST` | PostCoin |
 | `POT` | PotCoin |
@@ -1967,6 +2032,7 @@ There are currently **2673 cryptocurrencies** represented*:
 | `PURA` | Pura |
 | `PURE` | Pure |
 | `VIDZ` | PureVidz |
+| `PGT` | Puregold token |
 | `PURK` | Purk |
 | `PRPS` | Purpose |
 | `HLP` | Purpose Coin |
@@ -1995,6 +2061,7 @@ There are currently **2673 cryptocurrencies** represented*:
 | `XQN` | Quotient |
 | `QVT` | Qvolta |
 | `QWARK` | Qwark |
+| `QWC` | Qwertycoin |
 | `RFL` | RAFL |
 | `KRX` | RAVN Korrax  |
 | `RAC` | RAcoin |
@@ -2003,6 +2070,7 @@ There are currently **2673 cryptocurrencies** represented*:
 | `REAL` | REAL |
 | `REBL` | REBL |
 | `MWAT` | RED MegaWatt |
+| `RST` | REGA Risk Sharing Token |
 | `REM` | REMME |
 | `REX` | REX |
 | `RGC` | RG Coin |
@@ -2033,6 +2101,7 @@ There are currently **2673 cryptocurrencies** represented*:
 | `REC` | Regalcoin |
 | `RLX` | Relex |
 | `REL` | Reliance |
+| `RPM` | Render Payment |
 | `RNDR` | Render Token |
 | `RNS` | RenosCoin |
 | `BERRY` | Rentberry |
@@ -2089,6 +2158,7 @@ There are currently **2673 cryptocurrencies** represented*:
 | `RMC` | Russian Mining Coin |
 | `RUST` | RustCoin |
 | `RUSTBITS` | Rustbits |
+| `RYO` | Ryo |
 | `S8C` | S88 Coin |
 | `SABR` | SABR Coin |
 | `SAR*` | SARCoin |
@@ -2103,6 +2173,8 @@ There are currently **2673 cryptocurrencies** represented*:
 | `STEX` | STEX |
 | `STK` | STK Token |
 | `STS` | STRESScoin |
+| `XSTC` | Safe Trade Coin |
+| `SAFE` | SafeCoin |
 | `SAFEX` | SafeExchangeCoin |
 | `SFE` | Safecoin |
 | `SFR` | SaffronCoin |
@@ -2116,6 +2188,7 @@ There are currently **2673 cryptocurrencies** represented*:
 | `SND` | Sandcoin |
 | `SDRN` | Sanderon |
 | `SAN` | Santiment |
+| `SPN*` | Sapien Network |
 | `XAI` | SapienceCoin |
 | `SAT` | Satisfaction Token |
 | `STV` | Sativa Coin |
@@ -2137,6 +2210,7 @@ There are currently **2673 cryptocurrencies** represented*:
 | `SCRT` | SecretCoin |
 | `SRC` | SecureCoin |
 | `SEEDS` | SeedShares |
+| `B2X` | SegWit2x |
 | `SEL` | SelenCoin |
 | `KEY` | SelfKey |
 | `SSC` | SelfSell |
@@ -2146,6 +2220,7 @@ There are currently **2673 cryptocurrencies** represented*:
 | `SEN` | Sentaro |
 | `SENT` | Sentinel |
 | `SENC` | Sentinel Chain |
+| `UPP` | Sentinel Protocol |
 | `SEQ` | Sequence |
 | `SERA` | Seraph |
 | `SRNT` | Serenity |
@@ -2196,6 +2271,7 @@ There are currently **2673 cryptocurrencies** represented*:
 | `SMART*` | SmartBillions |
 | `SMART` | SmartCash |
 | `SMC` | SmartCoin |
+| `SLT` | SmartLands |
 | `SMT*` | SmartMesh |
 | `SMLY` | SmileyCoin |
 | `SMF` | SmurfCoin |
@@ -2330,6 +2406,7 @@ There are currently **2673 cryptocurrencies** represented*:
 | `TFD` | TE-FOOD |
 | `TKY` | THEKEY Token |
 | `TOA` | TOA Coin |
+| `TPC` | TPCash |
 | `XTROPTIONS` | TROPTIONS |
 | `TAG` | TagCoin |
 | `TAJ` | TajCoin |
@@ -2352,6 +2429,8 @@ There are currently **2673 cryptocurrencies** represented*:
 | `TELL` | Tellurion |
 | `PAY` | TenX |
 | `TENNET` | Tennet |
+| `TERN` | Ternio |
+| `TRN` | Ternion |
 | `TRC` | TerraCoin |
 | `TER` | TerraNovaCoin |
 | `TESLA` | TeslaCoilCoin |
@@ -2360,6 +2439,7 @@ There are currently **2673 cryptocurrencies** represented*:
 | `TRA` | Tetra |
 | `XTZ` | Tezos |
 | `THNX` | ThankYou |
+| `0xDIARY` | The 0xDiary Token |
 | `ABYSS` | The Abyss |
 | `EFX` | The EFFECT Network |
 | `TFC` | The Freedom Coin |
@@ -2425,6 +2505,8 @@ There are currently **2673 cryptocurrencies** represented*:
 | `TRIG` | Trigger |
 | `TNC` | Trinity Network Credit |
 | `TRIP` | Trippki |
+| `TRVC` | Trivecoin |
+| `TRW` | Triwer |
 | `TPG` | Troll Payment |
 | `TPAY` | TrollPlay |
 | `TKN*` | TrollTokens |
@@ -2434,6 +2516,8 @@ There are currently **2673 cryptocurrencies** represented*:
 | `TRCK` | Truckcoin |
 | `TFL` | True Flip Lottery |
 | `TUSD` | True USD |
+| `TDP` | TrueDeck |
+| `TGAME` | TrueGame |
 | `TIC` | TrueInvestmentCoin |
 | `TRUMP` | TrumpCoin |
 | `TRST` | TrustCoin |
@@ -2485,13 +2569,16 @@ There are currently **2673 cryptocurrencies** represented*:
 | `UP` | UpToken |
 | `UFR` | Upfiring |
 | `UQC` | Uquid Coin |
+| `URALS` | Urals Coin |
 | `URO` | UroCoin |
 | `UETL` | Useless Eth Token Lite |
 | `UET` | Useless Ethereum Token |
 | `UTH` | Uther |
 | `UTIL` | Utility Coin |
+| `OOT` | Utrum |
 | `UTK` | Utrust |
 | `UWC` | Uwezocoin |
+| `VIDT` | V-ID |
 | `VEGA` | VEGA |
 | `VIBE` | VIBEHub |
 | `VIP` | VIP Tokens |
@@ -2539,6 +2626,7 @@ There are currently **2673 cryptocurrencies** represented*:
 | `XVP` | VirtacoinPlus |
 | `VMC` | VirtualMining Coin |
 | `VISIO` | Visio |
+| `VITAE` | Vitae |
 | `VIU` | Viuly |
 | `VOISE` | Voise |
 | `VTN` | Voltroon |
@@ -2549,6 +2637,7 @@ There are currently **2673 cryptocurrencies** represented*:
 | `VTR` | Vtorrent |
 | `VULC` | Vulcano |
 | `W3C` | W3Coin |
+| `WAB` | WABnetwork |
 | `WIN` | WCoin |
 | `WMC` | WMCoin |
 | `WRT` | WRTcoin |
@@ -2569,6 +2658,7 @@ There are currently **2673 cryptocurrencies** represented*:
 | `WPR` | WePower |
 | `WT` | WeToken |
 | `WEALTH` | WealthCoin |
+| `WEB*` | Webchain |
 | `WELL` | Well |
 | `WEX` | Wexcoin |
 | `WHL` | WhaleCoin |
@@ -2608,6 +2698,7 @@ There are currently **2673 cryptocurrencies** represented*:
 | `XDE2` | XDE II |
 | `XG` | XG Sports |
 | `XRP` | XRP |
+| `XUEZ` | XUEZ |
 | `XXX` | XXXCoin |
 | `XYO` | XY Oracle |
 | `XNX` | XanaxCoin |
@@ -2631,6 +2722,7 @@ There are currently **2673 cryptocurrencies** represented*:
 | `YES` | YesCoin |
 | `YOC` | YoCoin |
 | `YOVI` | YobitVirtualCoin |
+| `U42` | You42 |
 | `YOYOW` | Yoyow |
 | `YUM` | Yumerium |
 | `Z2` | Z2 Coin |
@@ -2641,8 +2733,10 @@ There are currently **2673 cryptocurrencies** represented*:
 | `ZCG` | ZCashGOLD |
 | `ZCL` | ZClassic |
 | `XZC` | ZCoin |
+| `ZINC` | ZINC |
 | `ZIX` | ZIX Token |
 | `ZLQ` | ZLiteQubit |
+| `ZMN` | ZMINE |
 | `ZSE` | ZSEcoin |
 | `ZAP` | Zap |
 | `ZYD` | ZayedCoin |

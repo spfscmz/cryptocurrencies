@@ -35,13 +35,33 @@ fetch(endpoint)
 		}
 	});
 
+	/**
+	 * Build the JSON file that maps cryptocurrencies' name to symbol.
+	 */
+	const sortedByNames = sortby(json.Data, o => o.Name);
+	const names = {};
+	sortedByNames.forEach(currency => {
+		const {Name, CoinName} = currency;
+		names[CoinName] = Name;
+	});
+
 	spinner.succeed([`${imagesSaved} images saved to /images`]);
 
 	spinner.color = 'yellow';
+	
+	/**
+	 * Save cryptocurrencies.json
+	 */
 	spinner.start(`Saving cryptocurrencies.json file`);
-
 	fs.writeFileSync('cryptocurrencies.json', JSON.stringify(symbols, null, 2));
 	spinner.succeed(`${sorted.length} currencies saved to cryptocurrencies.json`);
+
+	/**
+	 * Save name-to-symbol.json
+	 */
+	spinner.start(`Saving name-to-symbol.json file`);
+	fs.writeFileSync('name-to-symbol.json', JSON.stringify(names, null, 2));
+	spinner.succeed(`${sorted.length} currencies saved to name-to-symbol.json`);
 
 	spinner.start('Saving Readme');
 
